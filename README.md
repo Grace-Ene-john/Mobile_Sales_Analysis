@@ -51,9 +51,11 @@ Dashboards and reports were built using *Power BI, Excel, and SQL* to provide ac
 
 ## Visualization
 
+### Power BI Dashboards
 <img width="1396" height="725" alt="Screenshot 2025-09-22 112548" src="https://github.com/user-attachments/assets/f80a3e73-d58a-47ca-945a-ab99b6b62394" />
 
-
+---
+#### Customer Segmentation by Gender
 <img width="941" height="532" alt="Screenshot 2025-09-22 115234" src="https://github.com/user-attachments/assets/5137b1e5-c099-47c2-8165-947c5a1737f6" />
 
 ---
