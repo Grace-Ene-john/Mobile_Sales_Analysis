@@ -51,6 +51,10 @@ Dashboards and reports were built using *Power BI, Excel, and SQL* to provide ac
 
 ## Visualization
 
+<img width="1396" height="725" alt="Screenshot 2025-09-22 112548" src="https://github.com/user-attachments/assets/f80a3e73-d58a-47ca-945a-ab99b6b62394" />
+
+---
+
 ## SQL
 The following SQL queries were used to extract key insights from the dataset
    
