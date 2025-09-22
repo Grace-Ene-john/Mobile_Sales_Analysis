@@ -38,6 +38,28 @@ Dashboards and reports were built using *Power BI, Excel, and SQL* to provide ac
 - *GitHub* → Portfolio & Project Documentation
 
 ## Key Insights
+- *Total Revenue:* 40.22M  
+- *Top Gender by Sales:* Female & Other (13.47M each)  
+- *Top Payment Method:* Credit Card (11.30M)  
+- *Best-Selling Model:* "huge" (283K revenue)  
+- *Top Location by Sales:* Lake Amanda (186K)  
+- *Top Mobile Model:* Huge model (282.86K revenue).  
+- *Gender Split:* Sales are evenly distributed across Male, Female, and Other.  
+- *Online Payments:* Strong growth, generating 10.28M in revenue.  
+
+---
+
 ## Visualization
+
 ## SQL
+The following SQL queries were used to extract key insights from the dataset
+   
+```sql
+---Find the most expensive brand----
+SELECT TOP 1 Brand, MAX(UnitPrice) AS HighestPrice
+FROM mobile_sales
+GROUP BY Brand
+ORDER BY HighestPrice DESC;
+```
+
 ## Profile
